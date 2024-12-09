@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=South Panel
+
+X-KDE-PluginInfo-Author=vladpen
+X-KDE-PluginInfo-Name=South Panel
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=true
+contrast=0.3
+intensity=0.7
+saturation=1.9
+
+[AdaptiveTransparency]
+enabled=false
