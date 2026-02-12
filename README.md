@@ -15,11 +15,11 @@
 
 Для установки темы нужно скопировать эти три файла (сохраняя сруктуру папок) в папку
 ```bash
-~/.local/share/plasma/desktoptheme
+~/.local/share/plasma/desktoptheme/south-panel-dark
 ```
  для текущего пользователя или
 ```bash
-/usr/share/plasma/desktoptheme
+/usr/share/plasma/desktoptheme/south-panel-dark
 ```
 для всех пользователей.
 
